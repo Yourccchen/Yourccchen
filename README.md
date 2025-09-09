@@ -2,7 +2,7 @@
   [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Yourccchen)
   [![Homepage](https://img.shields.io/badge/Homepage-green)](https://yourccchen.github.io/)
 ### 🎓 About Me
-  I am Mengchen Cai, a senior at Sichuan University.
+  I am Mengchen Cai, a graduate student at Peking University.
 
 ### ⚡ My Research Interests
   Control and Optimal, Robotics, Human-Robot Integration
