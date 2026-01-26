@@ -5,7 +5,7 @@
   I am Mengchen Cai, a graduate student at Peking University.
 
 ### ⚡ My Research Interests
-  Control and Optimal, Robotics, Human-Robot Integration
+  Embodied AI, Robotics, Human-Robot Integration
 
 ### 🛠️ Programming
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yourccchen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
